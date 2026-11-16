@@ -4,10 +4,10 @@ Each list follows [coawp.com](https://coawp.com/?utm_source=github&utm_medium=re
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Every field](https://github.com/coawp-com/Canadian-Internships-2027) | Every role, in every field | 1,976 | 201 |
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 521 | 44 |
+| [Every field](https://github.com/coawp-com/Canadian-Internships-2027) | Every role, in every field | 1,978 | 203 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 522 | 45 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 564 | 46 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 473 | 56 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 474 | 57 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 213 | 32 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 134 | 20 |
 
