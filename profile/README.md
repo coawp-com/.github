@@ -11,5 +11,7 @@ Each list follows [coawp.com](https://coawp.com/?utm_source=github&utm_medium=re
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 213 | 32 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 134 | 20 |
 
+If these help, star [Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027), the list of every field, so other students can find it.
+
 > [!TIP]
 > Filter by major, city and term on **[coawp.com](https://coawp.com/?near=6167865&radius=country&utm_source=github&utm_medium=readme&utm_campaign=profile)**, and get new roles by email every morning.
