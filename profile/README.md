@@ -4,12 +4,12 @@ Each list follows [coawp.com](https://coawp.com/?utm_source=github&utm_medium=re
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Every field](https://github.com/coawp-com/Canadian-Internships-2027) | Every role, in every field | 1,909 | 201 |
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 433 | 34 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 577 | 52 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 473 | 56 |
-| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 195 | 25 |
-| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 139 | 19 |
+| [Every field](https://github.com/coawp-com/Canadian-Internships-2027) | Every role, in every field | 1,915 | 216 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 430 | 34 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 581 | 57 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 475 | 60 |
+| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 198 | 29 |
+| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 139 | 21 |
 
 If these help, star [Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027), the list of every field, so other students can find it.
 
